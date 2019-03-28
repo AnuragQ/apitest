@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/anurag/.local/share/virtualenvs/apitest-lju5215G/bin/python",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_flask"]
+}
